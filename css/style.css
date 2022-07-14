@@ -1,0 +1,17 @@
+.header {
+    background-color: black;
+    color: red;
+    font-size: 52px;
+    font-weight: bold;
+    text-align: center;
+}
+
+li {
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+}
+
+div {
+    background-color: aliceblue;
+}
